@@ -24,7 +24,7 @@ div{
   flex-direction:column;
   span{
     font-size:12px;
-    color:#999;
+    color:#999; 
     margin-top:5px;
     button{
       border:0;
@@ -37,7 +37,7 @@ div{
 }
 `;
 
-export const Preview  = styled.div`
+export const Preview = styled.div`
 
 width:36px;
 height:36px;
@@ -45,6 +45,7 @@ border-radius:5px;
 background-image:url(${props => props.src});
 background-repeat:no-repeat;
 background-position:50% 50%;
+background-size:cover;
 margin-right:10px
 
 
