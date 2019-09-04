@@ -4,8 +4,13 @@
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
+    "react-circular-progressbar": "^2.0.2",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-dropzone": "^10.1.8",
+    "react-icons": "^3.7.0",
+    "react-icos": "^2.2.2",
+    "react-scripts": "3.1.1",
+    "styled-components": "^4.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
