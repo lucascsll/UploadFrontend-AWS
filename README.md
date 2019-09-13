@@ -1,4 +1,4 @@
-### Upload de imagens usando servidor da S3 AWS , Frontend em React e Backend em NodeJs.
+### Upload files to S3 AWS server. Using React on Frontend and NodeJs on Backend.
 
 
 
@@ -7,7 +7,7 @@
 
 #### This is a simple project for studies. To do I used the following libraries
 
-*aws-sdk
+- aws-sdk
 
 
 
