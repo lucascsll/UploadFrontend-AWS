@@ -15,6 +15,15 @@
 - multer-s3
 - mongoose
 
+#### For Frontend I used the libraries.
+
+- axios
+- lodash
+- react-circular-orifressbar
+- react-dom
+- react-dropzone
+- styled-componets filesize
+
 
 
 
