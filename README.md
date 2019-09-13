@@ -19,7 +19,7 @@
 
 - axios
 - lodash
-- react-circular-orifressbar
+- react-circular-Progressbar
 - react-dom
 - react-dropzone
 - styled-componets filesize
