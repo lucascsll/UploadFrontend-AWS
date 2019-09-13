@@ -1,4 +1,4 @@
-### Upload files to S3 AWS server. Using React on Frontend and NodeJs on Backend.
+## Upload files to S3 AWS server. Using React on Frontend and NodeJs on Backend.
 
 
 
@@ -8,6 +8,10 @@
 #### This is a simple project for studies. To do I used the following libraries
 
 - aws-sdk
+- express
+- multer
+- multer-s3
+
 
 
 
